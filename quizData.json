@@ -1,0 +1,33 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["London", "Madrid", "Paris", "Berlin"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+        "answer": "Leonardo Da Vinci"
+    },
+    {
+        "question": "What is the correct HTML tag for inserting a line break?",
+        "options": ["<br>", "break", "<lb>", "<b>"],
+        "answer": "<br>"
+    },
+    {
+        "question":"Which tag allows you to add a row in a table?",
+        "options":["<cr> and </cr>","<tr> and </tr>","<td> and </td>","<th> and </th>"],
+        "answer":"<tr> and </tr>"
+    },
+    {
+        "question":"Which tag is used to make the enclosed text bold other than <b> tag ?",
+        "options":["<emp>","<dar>","<black>","<strong>"],
+        "answer":"<strong>"
+    },
+    {
+        "question":"Choose the correct HTML tag to make text italic.",
+        "options":["<i>","<italic>","<italics>","<ii>"],
+        "answer":"<i>"
+    }
+    
+]
